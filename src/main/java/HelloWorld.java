@@ -3,7 +3,6 @@ public class HelloWorld {
     private String message;
  
     public String getMessage() {
-        System.out.println("ddfs");
         return message;
     }
  
